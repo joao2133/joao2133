@@ -23,10 +23,6 @@ Currently, I’m focused on improving my skills in frontend development, especia
 - **Backend:** Node.js (in progress).  
 - **Tools:** Git | GitHub | Visual Studio Code.  
 
-### Other Skills:  
-- 🗂️ Building websites for businesses.  
-- 📈 Basic knowledge of SQL (table creation, primary keys).  
-
 ---
 
 ## 📚 Currently Learning  
