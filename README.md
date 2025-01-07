@@ -9,11 +9,6 @@
 I'm an IT student passionate about programming and web technologies.
 Currently, I’m focused on improving my skills in frontend development, especially **JavaScript**, while exploring **Node.js** to build backend solutions.  
 
-💡 My main interests include:  
-- Developing interactive and responsive interfaces.  
-- Solving real-world problems with code.  
-- Continuous learning and sharing knowledge.  
-
 ---
 
 ## 🚀 Skills  
